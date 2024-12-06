@@ -71,9 +71,8 @@ This application provides a streamlined method for converting PDF documents into
 
 2. **Run the Script:**
    ```bash
-   python3 convert.py
+   python3 pdf_reader.py
    ```
-   *Assuming `convert.py` is the name of the script provided.*
 
 3. **Output:**
    For each PDF, the script will generate a `.txt` file with a name matching the original PDF. This `.txt` file will contain the Markdown-formatted output.
