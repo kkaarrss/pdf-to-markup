@@ -1,0 +1,4 @@
+pdf2image
+pillow
+langchain-core
+langchain-openai
