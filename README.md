@@ -39,7 +39,7 @@ This application provides a streamlined method for converting PDF documents into
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/pdf-to-markdown.git
+   git clone https://github.com/kkaarrss/pdf-to-markdown.git
    cd pdf-to-markdown
    ```
 
